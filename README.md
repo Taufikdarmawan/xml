@@ -16,33 +16,7 @@
 <div class='menu-primary-container'>
 <ul class='menus menu-primary'>
 
-<li><a expr:href='data:blog.homepageUrl'>Home</a></li>
 
-<li><a href='https://www.pak-tani.com/p/blog-page.html?m=1'>About</a>
-<ul class='children'>
-<li><a href='#'>Contact Me</a></li>
-<li><a href='#'>Disclaimer</a></li>
-<li><a href='#'>Privacy Police</a></li>
-</ul>
-</li>
-
-<li><a href='https://www.pak-tani.com/2019/12/cara-menanam-caisim.html'>Cara  Menanam Caisim</a>
-<ul class='children'>
-<li><a href='https://www.pak-tani.com/2019/12/cara-menanam-tanaman-lengkuas.html'>Cara Menanam Tanaman Lengkuas</a></li>
-<li><a href='https://www.pak-tani.com/2019/12/cara-menanam-sayur-bayam.html'>Cara Menanam Sayur Bayam</a></li>
-
-</ul>
-</li>
-<li><a href='https://www.pak-tani.com/2019/08/cara-menanam-semangka-agar-meningkatkan.html'>Cara Menanam Semangka Dan Perawatannya</a>
-<ul class='children'>
-<li><a href='https://www.pak-tani.com/2019/08/6-teknik-budidaya-mentimun-agar.html'>cara menanam mentimun</a></li>
-<li><a href='https://www.pak-tani.com/2019/08/6-teknik-cara-menanam-cabai.html'>6 Teknik Menanam cabai</a></li>
-<li><a href='https://www.pak-tani.com/2019/09/cara-menanam-terong-ungu.html'>6 Teknik Menanam Terong Ungu</a></li>
-<li><a href='https://www.pak-tani.com/2019/10/blog-post.html'>Cara Budidaya Terong Hijau Dan Perawatannya</a></li>
-<li><a href='https://www.pak-tani.com/2019/12/cara-menanam-mentimun-margin0.html'>Cara Menanam Tomat</a>
-</li>
-</ul>
-</li>
 
 </ul>
 </div>
